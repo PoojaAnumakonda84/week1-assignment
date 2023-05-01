@@ -1,0 +1,51 @@
+
+    
+step 1: start
+step 2: declare a variable c
+step 3: assign value 0 to c
+step 4: if c is less than or equal to 100(c<=100)
+step 5: check c divided by 2 is not equal to 0(c%2!=0)
+step 6: print c
+step 7: increment c value by 1(c=c+1) and repeat step 4,5,6
+step 8: stop
+
+
+sum of 1 to 10 numbers
+----------------------
+
+
+step 1: start
+step 2: declare aa variable n,sum,i
+step 3: aassign value to the n,0 to the sum,1 to the i
+step 4: sum=sum+1
+step 5: increment i by one(i=i+1)
+step 6: print sum
+step 7: stop
+
+
+even numbers from 1 to 100
+--------------------------
+
+step 1: start
+step 2: intialize variable i to 1
+step 3: check i value is less than or equal to 100(i<=100)
+step 4: if i divided by 2 is equal to 0 or not(i%2==0)
+step 5: print number
+step 6: increment value of i
+step 7: stop
+
+
+even numbers 1-20
+-----------------
+
+Step1: Start
+Step2: declare variable i to 1
+Step3: initialize the variable into 1
+Step4: while i<=20
+Step5: if i%2==0
+Step6: print the number
+Step7: increment value of i
+Step8: Stop 
+
+
+

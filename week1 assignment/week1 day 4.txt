@@ -1,0 +1,210 @@
+vote eligiblity
+---------------
+
+Step1: Start
+Step2: Declare the variable of age
+Step3: read the value of the variable age 
+Step4: if the age is greater than or equals to 18
+Step5: print eligible for vote
+Step6: if the age is below 18
+Step7: print your not eligible for the vote
+Step8: Stop
+
+Admission process
+-----------------
+
+Step1: Start
+Step2: Declare the variable percentage
+Step3: read the values of the percentage
+Step4: if the percentage is greater than 75% or equals to 75%
+Step5: print your are eligible for the admission
+Step6: if the percentage is less than 75%
+Step7: print you are not eligible for the admission
+Step8: Stop
+
+Average mark
+------------
+
+Step 1: Start
+Step 2: Read the three numbers  a,b,c form the user
+Step 3: Declared a variable sum and Avg
+Step 4: sum=a+b+c
+Step 5: Avg=sum/3.
+Step 6: Display sum  and Avg
+Step 7: Stop
+
+
+Login facebook
+-------------
+
+Step1: Start
+Step2: Open Facebook app
+Step3: Enter Email and password
+Step4: if the email and password is correct 
+Step5: it opens user account
+Step6: if the email and password is incorrect
+Step7: else recheck the email and password
+Step8: Stop
+
+Blood donation
+--------------
+
+Step1: Start
+Step2: declare Blood group, age, weight, should not be there any medical issue, should not take any medication before donating the blood, should not consume any alochol
+Step3: read the values of Blood group, age, weight, should not be there any medical issue, should not take any medication before donating the blood, should not consume any alochol
+step4: compare all the values are matched 
+Step5: print eligible for donation
+Step6: the values are not matched
+Step7: print not elibible for donation
+Step8: stop 
+
+live cricket
+------------
+
+step1: start
+step2: declare the CSK,MI,win
+step3: read the values CSK,MI
+step4: by seeing that CSK got 200 if MI is playing
+step5: by checking previous matches of CSK had won 5 and MI had won 6
+step6: accoring to it MI may win if they score got greater than CSK
+step7: otherwise no
+step8: display
+step9: stop
+
+
+Prirt bitLbas 10 times
+----------------------
+
+Step1: Start
+Step2: Declare count
+Step3: assigning the value 1 to count variable(count=1)
+Step4: print "bitLabs"
+Step5: incrementing count value by 1 and store the value into count(count=count+1)
+Step6: repeat step 4 and 5 until it reaches count value is greater than 10(count<=10)
+Step7: stop
+
+
+
+print 1 to 10 numbers
+---------------------
+
+Step1: Start
+Step2: Declare count
+Step3: assigning the value 1 to count variable(count=1)
+Step4: print count
+Step5: incrementing count value by 1 into count(count=count+1)
+Step6: repeat step4 and 5 until it reaches count value is greater than 11
+Step7: Stop
+
+
+print 10 to 1 numbers
+---------------------
+
+
+Step1: Start
+Step2: Declare count
+Step3: assigning the values 10 to count variabe(count=10)
+Step4: print count
+Step5: decrementing count value by 10 into count(count=count-1)
+Step6: repeat step 4 and 5 until it reaches count value is lessthan or equals to 1
+Step7: Stop
+
+
+PIN generate
+------------
+
+Step1: Start
+Step2: Declare a variable ATM card
+Step3: Select language(Telugu, Hindi, english)
+Step4: Select options(curerent account, savings account, Generate PIN)
+Step5: Select option Generate PIN(Generate New PIN or Chnage PIN)
+Step6: After selecting Generate PIN you will receive a OTP to your mobile number
+Step7: Enter the OTP 
+Step8: After entering the OTP you have to create a new PIN
+Step9: After entering the new PIN you need to re-enter the PIN for verification 
+Step10: The process of creating a PIN is completed
+Step11: Now remove the  ATM card
+Step12: Stop
+
+Deposist
+--------
+
+Step1: Start
+Step2: Now enter the ATM card
+Step3: Now select language(Telugu, Hindi, english)
+Step4: Select options(current account, savings account, Generate PIN)
+Step5: Select savings account
+Step6: Select Withdraw, Deposist, MINI statement
+Step7: Select Deposist
+Step8: What type of notes your are deposisting(100,200,500,2000)
+Step9: Choose amoung of them
+Step10: Now enter the amount for deposist
+Step11: After deposisting the amount you will receive a receipt
+Step12: Now take out the card
+Step13: Stop
+
+Bank balance
+------------
+Step1: Start
+Step2: Now insert the card
+Step3: Select the language(Telugu, Hindi, english)
+Step4: Select options(curerent account, savings account, Generate PIN)
+Step5: Select the type of the account
+Step6: Select the option check balance
+Step7: Enter the PIN number
+Step8: It shows the balance 
+Step9: Take out the card
+Step10: Stop
+
+Withdraw
+--------
+
+Step1: Start
+Step2: Now insert the ATM card
+Step3: Select language(Telugu, Hindi, english)
+Step4: Select options(curerent account, savings account, Generate PIN)
+Step5: Select the type of the account
+Step6: Enter the withdraw the amount(500,200,1000,2000,)
+step7: Enter the PIN number
+step8: Collect the cash
+step9: Take out the card
+Step10: Stop
+
+MINI Statement
+--------------
+
+Step1: Start
+Step2: Declare a variable ATM card
+Step3: Select language(Telugu, Hindi, english)
+Step4: Select options(curerent account, savings account, MINI statement)
+step5: Select savings account
+step6: Select MINI statement
+step7: It will display the statement(take receipt)
+step8: Take out the card 
+step9: Stop
+       
+
+
+
+
+
+
+       
+
+
+
+1.write algorithm for sum of 1 to 10 numbers.
+2.write algorithm for print even numbers from 1 to 100
+3.write algorithm for print odd numbers from 1 to 100
+
+
+
+
+
+
+
+
+
+
+
+

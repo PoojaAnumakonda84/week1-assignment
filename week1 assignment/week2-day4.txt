@@ -1,0 +1,147 @@
+ factorial
+----------
+
+Step1: Start
+Step2: Declare i,n
+Step3: initialize i=1, n=15
+Step4: if n%i==0 if it is true goto step5
+Step5: print i otherwise goto step6
+Step6: i=i+1
+Step7: repeat step4 and 5 until i<=n otherwise goto step8
+Step8: stop
+
+perfect number
+--------------
+
+Step1:start
+Step2: Declare variable i, n, sum
+Step3: initialize i=1, n=6, sum=0
+Step4: if n%i==0 if it is true goto step5 otherwise goto step6
+Step5 sum=sum+i
+Step6:i=i+1
+Step7repeat step4,5,6 until i<n otherwise go to step8
+Step8if n==sum print perfect number otherwise goto step9
+Step9print it is not perfect number
+Step10 stop
+
+greatest number between two numbers
+ ---------------------------------
+
+begin
+declare num1,num2
+Input the values num1,num2
+if(num1>num2)
+print num1 is greater
+else
+print num2 is greater
+end if
+End
+
+Square
+------
+
+1.begin
+// dispaly "enter the value of side"
+2.declare side,area
+3.Input side
+4.area=side*side
+5.display area
+6.End
+
+print day of the week
+---------------------
+ 
+begin
+declare num
+input num
+if(num==1)
+print "Monday"
+else if(num==2)
+print "tuesday"
+else if(num==3)
+print "wednesay"
+else if(num==4)
+print "thrusday
+else if(num==5)
+print "friday"
+else if(num==6)
+print "saturday"
+else if(numm==7)
+print "sunday"
+else
+print "invalid number"
+end if
+end
+
+
+begin
+declare variable a,b,c
+input the variables a,b,c
+if a>b&&b>c
+print a is big
+elseif(b>c)
+print b is big
+else
+print c is big
+end if
+End
+
+sum of 3 numbers
+----------------
+Step 1: begin
+Step 2: Declare variables num1,num2,num3, sum,average.
+Step 3: Calculate sum=num1+num2+num3 
+Step 4: Calculate average=sum/3 
+Step 5: Print sum and average 
+Step 6: end
+
+
+
+
+cicle
+-----
+
+Step 1: begin
+Step 2: Declare variables radius r and Area 
+Step 3: Read input radius r 
+Step 4: Calculate Area=3.14*r*r 
+Step 5: Print Area 
+Step 6: end
+
+
+1. Addition of three numbers
+2.average of three numbers
+3.area of the rectangle,square
+4.perimeter of rectangle,square
+5.student - read 5 subject marks find the percentage
+6.student - read 5 subject marks find the percentage print A,B,C,D,E
+7.positive or negative number
+8.even or not
+9.odd or not
+10.voter eligiblity
+11.print bitlabs 10times
+12.print 1 to 10
+15.print sum of number upto 20
+16.print 1 to 20 even number 
+17.print 1 to 20 odd numbers
+18.print the sum of even numbers  from 1to 10
+19.print the sum of odd numbers  from 1to 10
+20.count the total even numbers from 1 to 50
+21.factor of a number
+22.perfect number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

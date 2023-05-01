@@ -1,0 +1,168 @@
+Perimeter of a square :
+---------------------- 
+
+step 1: start
+step 2: declare the side and perimeter
+step 3: read the values of side 
+step 4 : perimeter =4* side 
+step 5 : display perimeter 
+step 6: stop
+
+
+simple interest Algorithm
+-------------------------
+ 
+Step 1:Start
+Step 2:Read Principal Amount, Rate and Time
+Step 3:Calculate Interest using formula SI= ((amount*rate*time)/100)
+Step 4:Print Simple Interest
+Step 5:Stop
+
+percentage of subjects
+----------------------
+
+Step 1: Start
+Step 2: declare 5 subjects(s1, s2, s3, s4. s5 )
+Step 3: Calculate the percentage of 5 subjects(total no.of marks/500)*100
+Step 4: display percentage
+Step 5: Stop
+
+
+
+Swaping 2 numbers
+-----------------
+
+Step 1: Start
+Step 2: Take 2 numbers a,b
+Step 3: the value of a = 12, the value b = 13 and temp
+Step 4: Store the value 12 in temp
+Step 5: Store the value 13 in a and
+Step 6: Store the temp value in b
+Step 7: show the swaping results
+Step 8: Stop
+
+
+
+
+
+without temp
+-------------
+
+Step 0: Start
+Step 1: Declare two integer variables − Num1, and Num2.
+Step 2: Assign values to Num1 = 10 and Num2 = 30.
+Step 3: Swap numbers using addition − Num1 = Num1 = 10 + Num2 = 30 = 40
+Step 4: Swap numbers using subtraction operation - Num2-num1 = 30 - 10  = 20
+Step 5: now Num1 = num1 + num2 = 60
+Step 6: now num2 = num1 - num2 = 20
+Step 7:Stop
+
+
+
+Even num
+
+Step1: Start
+Step2: select a number
+Step3: if num is %2 is a even num print even num or if the num is not %2 print not even
+Step4: print even number
+Step5: else not an even number
+Step6: Stop
+
+positive num or not
+-------------------
+
+Step1: start
+Step2:declare a number
+Step3: check the number is (num<0)it is negative,number is (num>o)it is positive
+Step4: display number
+Step5: stop
+
+
+Biggest number
+--------------
+
+Step 1:  Start 
+Step 2: Input the values of A, B Compare  
+Step 3: If A > B then go to step5
+Step 4: Print B is largest go to Step 6
+Step 5: Print A is largest  
+Step 6: Stop
+
+
+greatest number
+---------------
+
+Step 1: Star
+
+Step 2: Read three numbers A,B & C
+
+Step 3: If A>B,then go to step 6
+
+Step 4: If B>C,then print B & go to step 8
+
+Step 5 :print C is greatest & go to step 8
+
+Step 6: If A>C,then print A is greatest & go to step 8
+
+Step 7: Print C is greatest
+
+Step 8: Stop
+
+
+grade percentage
+----------------
+
+Step1: Start
+Step2: declare physics,chemistry,biology,mathematics,computer
+Step3: read the values physics,chemistry,biology,mathematics,computer
+Step4: add all the subjects
+Step5: percentage=(marks obtained by the students/total no.ofmarks)*100
+Step6:
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
+Input marks of five subjects:
+95
+95
+97
+98
+90
+Output
+Percentage = 95.00
+Grade A 
+
+VOWELS
+-------
+
+Step 1: Start
+
+Step 2: Declare character type variable ch
+
+Step 3: Read ch from User
+
+Step 4: Checking both lower and upper case vowels.
+
+IF
+(ch == 'a', 'A
+
+ch == 'e' ,'E'
+
+ch == 'i' , 'I'
+
+ch == 'o' ,'O'
+
+ch == 'u' , 'U' 
+
+Print "Vowel"
+
+ELSE
+
+Print "Not vowel"
+
+Step 5: Stop`
+
+
+
